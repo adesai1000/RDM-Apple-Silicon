@@ -2,29 +2,29 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CFBundleIconFile</key>
-	<string>monitor</string>
-	<key>CFBundlePackageType</key>
-	<string>APPL</string>
-	<key>CFBundleSignature</key>
-	<string>????</string>
 	<key>CFBundleExecutable</key>
 	<string>SetResX</string>
 	<key>CFBundleGetInfoString</key>
 	<string>Rapid screen resolution switching</string>
+	<key>CFBundleIconFile</key>
+	<string>monitor</string>
 	<key>CFBundleIdentifier</key>
-	<string>net.alkalay.RDM</string>
+	<string>com.ayush.rdm.applesilicon</string>
 	<key>CFBundleName</key>
-	<string>RDM</string>
+	<string>RDM-Apple-Silicon</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
 	<key>LSUIElement</key>
 	<string>1</string>
 	<key>NSHighResolutionCapable</key>
 	<true/>
 	<key>NSHumanReadableCopyright</key>
 	<string>Distributed under GNU General Public License v3.0</string>
-	<key>CFBundleVersion</key>
-	<string>2.2</string>
-	<key>CFBundleShortVersionString</key>
-	<string>2.2</string>
 </dict>
 </plist>
