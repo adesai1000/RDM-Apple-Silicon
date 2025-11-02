@@ -1,4 +1,8 @@
-
+#ifdef __OBJC__
+#import <Cocoa/Cocoa.h>
+#endif
+#include <CoreGraphics/CoreGraphics.h>
+#include <ApplicationServices/ApplicationServices.h>
 
 typedef union
 {
