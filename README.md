@@ -3,7 +3,7 @@
 The original RDM (Retina Display Menu) project is now archived and no longer provides a `.dmg` installer, and its source code can’t be built natively on Apple Silicon Macs due to outdated architecture flags and dependencies. This fork updates the build system and code to work on modern macOS and Apple Silicon (M1, M2, M3 series) Macs. You can either download a .dmg from the releases page or can compile and run it directly without issues.
 
 ### ⚠️ Caution
-This version only includes modifications to the `utils.h` file and the `Makefile`, made with help from ChatGPT. It works as expected on Apple Silicon Macs, but if it doesn’t, please don’t blame me lol.  
+This version only includes modifications to the `utils.h` file and the `Makefile`, made with help from ChatGPT. It builds as expected on Apple Silicon Macs, but if it doesn’t, please don’t blame me lol.  
 I don’t plan to actively maintain this project, but if you’d like to improve it, feel free to open a PR.
 
 ## 🛠️ Building from Source
